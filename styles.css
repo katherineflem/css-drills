@@ -2,4 +2,14 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     background: lightslategray
 }
-.boxes {text-align:center;}
+.boxes {text-align:center;margin:5em;padding:1em; border-style:solid;border-color:blue; border-radius:10px; width:30em;
+    display:block}
+a {text-decoration:none;color: black;}
+a:hover {color:lavender}
+span {color:purple; font-weight:550;} 
+#box1 {background-color: #90EE90}
+#box2 {background-color:#90EE90;} 
+#box3 {background-color: #90EE90 }
+#box4 {background-color: #90EE90}
+.image {height:50px;width:50px;border-radius:50px;background-color: red;
+top:100px}
